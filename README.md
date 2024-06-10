@@ -1,2 +1,2 @@
-# squashtest
+quashtest
  
